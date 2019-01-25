@@ -1,2 +1,0 @@
-# bardandras.github.io
-weboldal
